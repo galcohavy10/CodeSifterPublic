@@ -1,0 +1,36 @@
+.App {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"],
+  input[type="range"],
+  textarea {
+    width: 100%;
+    margin-top: 8px;
+  }
+  
+  input[type="checkbox"] {
+    margin-top: 12px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #8ac2ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
