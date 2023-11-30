@@ -29,22 +29,17 @@ This documentation explains the functionality of a codebase designed to process 
 5. **Integration**: Highly ranked chunks (high relevance) are integrated into the context.
 6. **Response Generation**: GPT-4 uses this context to generate a response, which is then returned to the user.
 
-User Input
-    |
-    v
-Keyword Generation
-    |
-    v
-Data Extraction
-    |
-    v
-Ranking
-    |
-    v
-Integration
-    |
-    v
-Response Generation
+# 🌟 **User Input**
+   ↓
+## ⚙️ **Keyword Generation**
+   ↓
+### 📊 **Data Extraction**
+   ↓
+#### 🏆 **Ranking**
+   ↓
+##### 🧩 **Integration**
+   ↓
+###### 📝 **Response Generation**
 
 
 ## Troubleshooting
